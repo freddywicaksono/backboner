@@ -4,3 +4,5 @@
 ### 3. Create a folder in server / local server
 ### 4. Upload all folders to server / local server
 ### 5. Run : http://[host]/[folder]/mahasiswa
+
+![index](https://github.com/freddywicaksono/backboner/blob/main/index.jpg)
